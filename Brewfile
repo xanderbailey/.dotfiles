@@ -32,23 +32,23 @@ brew "python@3.7"
 brew "source-highlight"
 # Internet file retriever
 brew "wget"
+brew "jq"
+brew "coder-cli"
+brew "curl" 
 
 
-# Text editor
-cask "atom"
+
 # Terminal emulator as alternative to Apple's Terminal app
 cask "iterm2"
 # Software for Logitech devices
 cask "logitech-options"
-# Data science software focusing on R and Python
-cask "rstudio"
-cask "sourcetree"
 # Open-source code editor
 cask "visual-studio-code"
 # Spotify
 cask "spotify"
-# Chrome
-cask "google-chrome"
+cast "postman"
+cast "sublime-text"
+cast "rectangle" 
+cast "zulu15"
+cast "obsidian" 
 
-mas "1Password 7", id: 1333542190
-mas "Slack", id: 803453959

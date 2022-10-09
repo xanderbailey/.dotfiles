@@ -18,6 +18,10 @@ vnoremap <Down> <Nop>
 vnoremap <Left> <Nop>
 vnoremap <Right> <Nop>
 vnoremap <Up> <Nop>
+nnoremap H ^
+nnoremap L $
+nnoremap J 5j
+nnoremap K 5k
 syntax on
 set relativenumber
 set spell

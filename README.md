@@ -1,5 +1,4 @@
 # Macbook Pro dotfiles and setup at GitLab
-
 This repository contains everything to bootstrap my Macbook Pro (16 inch, 2019).
 
 In addition to the files stored in this repository, the following instructions are needed to fully setup a Macbook Pro.
@@ -28,7 +27,7 @@ xcode-select --install
 ### Dot files
 
 ```
-git clone https://gitlab.com/dnsmichi/dotfiles.git
+git clone https://gitlab.com/xanderbailey/dotfiles.git
 cd dotfiles
 ```
 
